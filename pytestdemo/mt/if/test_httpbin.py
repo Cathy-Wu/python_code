@@ -3,7 +3,7 @@
 Created on 2017年4月28日
 httpbin接口
 
-@author: 黄小勇
+@author: cathy
 '''
 import pytest
 from Request import *
